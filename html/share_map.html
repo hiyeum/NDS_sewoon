@@ -4,6 +4,16 @@
 	<title>지붕없는 인쇄소-Share-map</title>
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="../css/defalt.css">
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=96320533017ec351af93ddc8631d6a5c"></script>
+	<script>
+		var container = document.getElementById('map'); // 지도를 표시할 div
+		var options = {
+			center: new daum.maps.LatLng(37.466537, 126.932918), // 미림좌표지도의 중심좌표
+			level: 3
+		};
+
+		var map = new daum.maps.Map(container, options);
+	</script>
 </head>
 <body>
 			<div class="header">
