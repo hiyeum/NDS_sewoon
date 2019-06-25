@@ -237,3 +237,35 @@ background-size: 130%;}
 	margin-left: 60px;
 	font-weight: 600px;
 }
+
+
+
+
+
+
+/*share sub_2*/
+
+
+
+
+.image_page {
+	display: inline-block;
+	width: 800px;
+	height: 544px;
+	background-color: blue;
+	margin-left: 60px;
+}
+
+.swiper-container {
+	width: 800px;
+	height: 544px;
+	display: inline-block;
+	top:-50px;
+}
+
+.by {
+	display: inline-block;
+	position: relative;
+	top:-470px;
+	left: -30px;
+}
