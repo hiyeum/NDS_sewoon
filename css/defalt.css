@@ -36,6 +36,8 @@
 			 }
 
 
+
+
 .header {
 	position: fixed;
 	margin-left: 60px;
@@ -94,6 +96,11 @@
 	padding-bottom: 50px;
 }
 
+
+.ctn_2 .ctn_2_2 {
+	padding-bottom: 50px;
+	margin-top: 300px;
+}
 
 .ctn_2 .ctn_2_3 p {
 	display: block;
