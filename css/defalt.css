@@ -347,25 +347,19 @@ background-size: 130%;}
 
 .ctn_s {display: block;
 position: absolute; text-align: right;
-right: 340px; top:2550px;}
+right: 340px; top:2750px;}
 
 .ctn_2_s { margin-top: 200px;
 
 }
 
 .sew {
-	margin-top: 200px;
+	margin-top: 400px;
+	margin-bottom: 100px;
 }
 
 
-.footer {
-	margin-left: 
-	width: 600px;
-	height: 30px;
-	border-top: 2px solid black;
-	text-align: center;
-	padding: 10px;
-}
+
 
 
 
